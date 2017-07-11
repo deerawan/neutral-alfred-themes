@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 9,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "Helvetica Neue Light",
+        "color" : "#7B729EFF"
+      },
+      "shortcut" : {
+        "size" : 19,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#6471B0FF"
+      },
+      "backgroundSelected" : "#3866EDFF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#6471B0FF"
+      },
+      "iconPaddingHorizontal" : 12,
+      "paddingVertical" : 12,
+      "iconSize" : 31
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#FEFFFEFF",
+      "spacing" : 13,
+      "text" : {
+        "size" : 35,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#2A4FBFC2"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#FEFFFEFF",
+      "paddingHorizontal" : 0,
+      "width" : 600,
+      "borderPadding" : 7,
+      "borderColor" : "#889DFC6E",
+      "blur" : 0,
+      "roundness" : 20,
+      "paddingVertical" : 20
+    },
+    "credit" : "Budi Irawan",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#656F76FF",
+      "thickness" : 1
+    },
+    "name" : "Neutral Blue"
+  }
+}
